@@ -1,2 +1,2 @@
 # Ebay
-a sample login page 
+a sample login page withe php authentication
